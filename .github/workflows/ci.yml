@@ -3,7 +3,7 @@ name: Laravel CI/CD
 on:
   push:
     branches:
-      - dieynaba_ba_librairie
+      - Dieynaba_Ba_librairie  # Assurez-vous que le nom correspond exactement à la branche
 
 jobs:
   build:
